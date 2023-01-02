@@ -6,7 +6,7 @@ describe('Test', () => {
 		// Find a link with an href attribute containing "page3" and click it
 		cy.get('a[href*="page3"]').click()
 
-		// The new url should include "/about"
+		// The new url should include "/page3"
 		cy.url().should('include', '/page3')
 
 		// Enter an Email address
