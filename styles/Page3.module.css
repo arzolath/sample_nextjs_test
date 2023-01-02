@@ -1,0 +1,25 @@
+.formWrapper {
+	border: 10px #ffffff solid;
+	width: 700px;
+	margin: auto;
+}
+
+.field {
+	width: 400px;
+}
+
+.formRow {
+	display: block;
+}
+
+.formInline {
+	display: inline-block;
+}
+
+.button {
+	width: 150px;
+}
+
+.right {
+	text-align: right;
+}

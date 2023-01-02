@@ -1,0 +1,11 @@
+.imageWrapper {
+	position: relative;
+	width: 100%;
+	height: auto;
+}
+
+.imageWrapper img {
+	position: relative;
+	margin: auto;
+	display: block;
+}
